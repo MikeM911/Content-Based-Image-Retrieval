@@ -1,4 +1,4 @@
-# hand-written-digit-barcode-generator
+# Content Based Image Retrieval
 
 [Project Report](Data_Structures_Project_Report.pdf)
 
