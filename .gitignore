@@ -1,0 +1,6 @@
+.venv/
+.vscode/
+__pycache__/
+barcodes/
+barcodes.txt
+thresholds.txt
