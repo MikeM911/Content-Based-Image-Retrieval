@@ -1,6 +1,6 @@
 # Content Based Image Retrieval
 
-[Project Report](Content Based Image Retrieval Report.pdf)
+[Project Report](Content_Based_Image_Retrieval_Report.pdf)
 
 ### Step 1
 > clone the repository
